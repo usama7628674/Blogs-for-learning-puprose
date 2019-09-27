@@ -7,3 +7,5 @@ https://blog.xpnsec.com/becoming-system/
 https://www.countercept.com/blog/detecting-parent-pid-spoofing/
 
 https://www.instructables.com/member/xp4xbox/
+
+https://blog.hunniccyber.com
