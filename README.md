@@ -9,3 +9,5 @@ https://www.countercept.com/blog/detecting-parent-pid-spoofing/
 https://www.instructables.com/member/xp4xbox/
 
 https://blog.hunniccyber.com
+
+https://www.trustedsec.com/2012/03/building-a-native-http-shell-with-aes-in-python/
