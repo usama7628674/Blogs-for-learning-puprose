@@ -13,3 +13,5 @@ https://blog.hunniccyber.com
 https://www.trustedsec.com/2012/03/building-a-native-http-shell-with-aes-in-python/
 
 https://www.mike-gualtieri.com/posts/modifying-empire-to-evade-windows-defender
+
+http://dan3lmi.blogspot.com/?view=magazine
