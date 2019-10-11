@@ -17,3 +17,5 @@ https://www.mike-gualtieri.com/posts/modifying-empire-to-evade-windows-defender
 http://dan3lmi.blogspot.com/?view=magazine
 
 https://secrary.com
+
+https://0x00sec.org
