@@ -19,3 +19,5 @@ http://dan3lmi.blogspot.com/?view=magazine
 https://secrary.com
 
 https://0x00sec.org
+
+https://www.n00py.io/2018/06/executing-meterpreter-in-memory-on-windows-10-and-bypassing-antivirus/
