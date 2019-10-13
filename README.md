@@ -23,3 +23,5 @@ https://0x00sec.org
 https://www.n00py.io/2018/06/executing-meterpreter-in-memory-on-windows-10-and-bypassing-antivirus/
 
 https://ired.team
+
+https://lepetithacker.wordpress.com/2018/01/06/how-i-found-a-way-to-evade-all-antivirus-products/
