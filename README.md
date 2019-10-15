@@ -27,3 +27,5 @@ https://ired.team
 https://lepetithacker.wordpress.com/2018/01/06/how-i-found-a-way-to-evade-all-antivirus-products/
 
 https://medium.com/@codingkarma/pe-section-header-injection-using-code-cave-1451912d814c
+
+https://idafchev.github.io/blog_posts
