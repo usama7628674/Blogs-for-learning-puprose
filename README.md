@@ -29,3 +29,5 @@ https://lepetithacker.wordpress.com/2018/01/06/how-i-found-a-way-to-evade-all-an
 https://medium.com/@codingkarma/pe-section-header-injection-using-code-cave-1451912d814c
 
 https://idafchev.github.io/blog_posts
+
+https://labs.jumpsec.com/2019/06/20/bypassing-antivirus-with-golang-gopher-it/
