@@ -31,3 +31,5 @@ https://medium.com/@codingkarma/pe-section-header-injection-using-code-cave-1451
 https://idafchev.github.io/blog_posts
 
 https://labs.jumpsec.com/2019/06/20/bypassing-antivirus-with-golang-gopher-it/
+
+https://pentestlab.blog/2017/07/26/bypassing-antivirus-host-intrusion-prevention-systems/
