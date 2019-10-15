@@ -37,3 +37,5 @@ https://pentestlab.blog/2017/07/26/bypassing-antivirus-host-intrusion-prevention
 https://pentestlab.blog/2017/12/15/microsoft-office-payloads-in-document-properties/
 
 https://www.hackingarticles.in/bypass-application-whitelisting-using-mshta-exe-multiple-methods/
+
+https://www.elteni.com/how-we-were-able-to-bypass-windows-defender-on-a-windows-10-machine-to-get-a-reverse-shell/
