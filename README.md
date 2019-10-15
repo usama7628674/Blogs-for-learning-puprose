@@ -39,3 +39,5 @@ https://pentestlab.blog/2017/12/15/microsoft-office-payloads-in-document-propert
 https://www.hackingarticles.in/bypass-application-whitelisting-using-mshta-exe-multiple-methods/
 
 https://www.elteni.com/how-we-were-able-to-bypass-windows-defender-on-a-windows-10-machine-to-get-a-reverse-shell/
+
+https://sevrosecurity.com/2019/05/25/bypass-windows-defender-with-a-simple-shell-loader/
