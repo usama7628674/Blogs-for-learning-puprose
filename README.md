@@ -35,3 +35,5 @@ https://labs.jumpsec.com/2019/06/20/bypassing-antivirus-with-golang-gopher-it/
 https://pentestlab.blog/2017/07/26/bypassing-antivirus-host-intrusion-prevention-systems/
 
 https://pentestlab.blog/2017/12/15/microsoft-office-payloads-in-document-properties/
+
+https://www.hackingarticles.in/bypass-application-whitelisting-using-mshta-exe-multiple-methods/
