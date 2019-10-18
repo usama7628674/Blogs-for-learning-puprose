@@ -53,3 +53,5 @@ https://securityxploded.com/remote-dll-injector.php
 https://www.optiv.com/blog/bypassing-antivirus-with-powershell
 
 https://hackingandsecurity.blogspot.com/2017/10/bypassing-antivirus-heuristic-detection.html
+
+https://bestestredteam.com/2019/03/19/7-tools-for-malicious-document-creation/
