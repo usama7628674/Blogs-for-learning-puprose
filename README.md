@@ -43,3 +43,11 @@ https://www.elteni.com/how-we-were-able-to-bypass-windows-defender-on-a-windows-
 https://sevrosecurity.com/2019/05/25/bypass-windows-defender-with-a-simple-shell-loader/
 
 https://www.google.com/search?q=bypass+meterpreter+payload+antivirus+2019&client=opera&ei=toGlXfhGg5JoleG22AM&start=60&sa=N&ved=0ahUKEwj4-e3z6p3lAhUDCRoKHZWwDTs4MhDy0wMIiAE&biw=1920&bih=970
+
+https://www.codeproject.com/Articles/4610/Three-Ways-to-Inject-Your-Code-into-Another-Proces
+
+https://www.mattandreko.com/2012/02/23/using-.net-to-bypass-av/
+
+https://securityxploded.com/remote-dll-injector.php
+
+https://www.optiv.com/blog/bypassing-antivirus-with-powershell
