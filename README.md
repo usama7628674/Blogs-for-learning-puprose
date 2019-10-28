@@ -63,3 +63,5 @@ https://www.gracefulsecurity.com/anti-virus-evasion/
 https://rastating.github.io/creating-a-shellcode-crypter/
 
 https://www.oreilly.com/library/view/metasploit-bootcamp/9781788297134/d3486576-c1a1-445c-b693-554b56a146e8.xhtml
+
+https://pypi.org/project/donut-shellcode/
