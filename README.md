@@ -67,3 +67,5 @@ https://www.oreilly.com/library/view/metasploit-bootcamp/9781788297134/d3486576-
 https://pypi.org/project/donut-shellcode/
 
 https://adsecurity.org/?page_id=1821
+
+https://rioasmara.com
