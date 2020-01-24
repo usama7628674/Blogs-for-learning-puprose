@@ -74,4 +74,6 @@ https://www.activecyber.us/activelabs
 
 https://miloserdov.org
 
+https://miloserdov.org/?p=337  (raise tx power of awus036NHA)
+
 
