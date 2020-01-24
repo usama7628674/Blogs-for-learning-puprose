@@ -76,4 +76,4 @@ https://miloserdov.org
 
 https://miloserdov.org/?p=337  (raise tx power of awus036NHA)
 
-
+https://wikileaks.org/ciav7p1/cms/files/BypassAVDynamics.pdf   (AV-evasion slides)
