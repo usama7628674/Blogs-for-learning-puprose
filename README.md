@@ -79,3 +79,5 @@ https://miloserdov.org/?p=337  (raise tx power of awus036NHA)
 https://wikileaks.org/ciav7p1/cms/files/BypassAVDynamics.pdf   (AV-evasion slides)
 
 https://zsecurity.org/hack-cameras-more-with-shodan-like-mr-robot/   (shodan filters & search fundamentals)
+
+https://github.com/offsecginger/PythonAESObfuscate
