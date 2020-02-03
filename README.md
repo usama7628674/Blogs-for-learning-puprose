@@ -81,3 +81,5 @@ https://wikileaks.org/ciav7p1/cms/files/BypassAVDynamics.pdf   (AV-evasion slide
 https://zsecurity.org/hack-cameras-more-with-shodan-like-mr-robot/   (shodan filters & search fundamentals)
 
 https://github.com/offsecginger/PythonAESObfuscate
+
+https://github.com/0xZ0F/Z0FCourse_ReverseEngineering   (reverse-engineering)
