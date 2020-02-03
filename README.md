@@ -83,3 +83,5 @@ https://zsecurity.org/hack-cameras-more-with-shodan-like-mr-robot/   (shodan fil
 https://github.com/offsecginger/PythonAESObfuscate
 
 https://github.com/0xZ0F/Z0FCourse_ReverseEngineering   (reverse-engineering)
+
+https://github.com/0xZ0F/Z0FCourse_ExploitDevelopment   (exploit-development)
