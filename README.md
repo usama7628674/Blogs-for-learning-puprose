@@ -89,3 +89,5 @@ https://github.com/0xZ0F/Z0FCourse_ExploitDevelopment   (exploit-development)
 https://sourceforge.net/projects/websecuritydojo/files/Version_3.4.1/   (web-app pentest)
 
 https://www.d00rt.eus
+
+https://nora.codes/post/pdf-embedding-attacks/   (run exe from pdf)
