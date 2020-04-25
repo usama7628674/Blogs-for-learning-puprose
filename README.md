@@ -91,3 +91,5 @@ https://sourceforge.net/projects/websecuritydojo/files/Version_3.4.1/   (web-app
 https://www.d00rt.eus
 
 https://nora.codes/post/pdf-embedding-attacks/   (run exe from pdf)
+
+https://cryptopals.com  (A bunch of CTF challenges, all focused on cryptography.)
