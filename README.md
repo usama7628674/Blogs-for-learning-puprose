@@ -93,3 +93,5 @@ https://www.d00rt.eus
 https://nora.codes/post/pdf-embedding-attacks/   (run exe from pdf)
 
 https://cryptopals.com  (A bunch of CTF challenges, all focused on cryptography.)
+
+https://netsec.expert
