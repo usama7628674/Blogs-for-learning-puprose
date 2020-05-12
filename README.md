@@ -95,3 +95,5 @@ https://nora.codes/post/pdf-embedding-attacks/   (run exe from pdf)
 https://cryptopals.com  (A bunch of CTF challenges, all focused on cryptography.)
 
 https://netsec.expert
+
+https://0verfl0w.podia.com  (malware analyzing course)
