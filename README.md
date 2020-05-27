@@ -97,3 +97,5 @@ https://cryptopals.com  (A bunch of CTF challenges, all focused on cryptography.
 https://netsec.expert
 
 https://0verfl0w.podia.com  (malware analyzing course)
+
+https://gbhackers.com/wireless-penetration-testing-checklist-a-detailed-cheat-sheet/   
