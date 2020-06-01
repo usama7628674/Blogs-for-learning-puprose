@@ -99,3 +99,5 @@ https://netsec.expert
 https://0verfl0w.podia.com  (malware analyzing course)
 
 https://gbhackers.com/wireless-penetration-testing-checklist-a-detailed-cheat-sheet/   
+
+https://blog.focal-point.com/how-to-build-obfuscated-macros-for-your-next-social-engineering-campaign
