@@ -103,3 +103,5 @@ https://gbhackers.com/wireless-penetration-testing-checklist-a-detailed-cheat-sh
 https://blog.focal-point.com/how-to-build-obfuscated-macros-for-your-next-social-engineering-campaign
 
 https://securityonline.info/best-learning-python-resource-beginners/
+
+https://tryexceptpass.org/article/package-python-as-executable/   (different modules to convert .py to .exe)
