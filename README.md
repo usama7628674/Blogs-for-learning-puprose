@@ -105,3 +105,5 @@ https://blog.focal-point.com/how-to-build-obfuscated-macros-for-your-next-social
 https://securityonline.info/best-learning-python-resource-beginners/
 
 https://tryexceptpass.org/article/package-python-as-executable/   (different modules to convert .py to .exe)
+
+https://www.fuzzysecurity.com/tutorials/19.html  (Windows persistence ways)
