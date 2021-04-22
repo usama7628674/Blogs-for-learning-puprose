@@ -107,3 +107,5 @@ https://securityonline.info/best-learning-python-resource-beginners/
 https://tryexceptpass.org/article/package-python-as-executable/   (different modules to convert .py to .exe)
 
 https://www.fuzzysecurity.com/tutorials/19.html  (Windows persistence ways)
+
+https://amsi.fail   (bypass AMSI)
